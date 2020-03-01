@@ -1,7 +1,6 @@
 *{
     margin: 0px;
     padding: 0px;
-    color: #484848;
     font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;    
 }
 
@@ -9,6 +8,10 @@ body{
     margin: 0px;
     padding: 0px;
     font-size: 14px;
+    color: #484848;
+    display: flex;
+    flex-direction: column;
+    flex-flow: column;
 }
 
 .container{
